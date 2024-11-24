@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsshokouh
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning HTML,CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on Web development for now
 - 📫 How to reach me (discord: @itsshokouh)
 
